@@ -16,11 +16,11 @@ html, body {
   
   .page-title {
     text-align: center;
-    font-weight: 100;
+    font-weight: 250;
   }
   
   .page-description {
-    border: 1px solid #000;
+    border: 3px solid #FFF;
     text-align: center;
     padding: 30px;
   }
