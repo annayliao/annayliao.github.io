@@ -8,7 +8,7 @@ html, body {
   
   body {
     font-family: 'Lato', sans-serif;
-    background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-3/background.jpg');
+    background-image: url('https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg');
     background-position: center top;
     background-size: cover;
     margin: 0;
@@ -44,7 +44,7 @@ html, body {
   /* FOOTER NAVIGATION */
   
   nav {
-    background-color: #FFF;
+    background-color: #000000;
   }
   
   nav li {
