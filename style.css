@@ -38,7 +38,7 @@ html, body {
   }
   
   .gallery-item .thumbnail {
-  
+    border: 5px solid #000
   }
   
   /* FOOTER NAVIGATION */
