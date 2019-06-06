@@ -1,9 +1,11 @@
 content = [
-    "/projects/business-frameworks",
-    "/projects/dirty-computer",
-    "/projects/yoga",
-    "/projects/electric-lady",
-    "/projects/tightrope",
-    "/projects/archandroid",
-    "/projects/metropolis", 
+    "/projects/applying-business-frameworks",
+    "/projects/rebranding-aggie-reuse-store",
+    "/projects/aveda-marketing-presentation-and-report",
+#    "/projects/dirty-computer",
+#   "/projects/yoga",
+#    "/projects/electric-lady",
+#    "/projects/tightrope",
+#    "/projects/archandroid",
+#    "/projects/metropolis", 
 ]
